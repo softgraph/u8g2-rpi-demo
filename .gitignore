@@ -153,3 +153,4 @@ dkms.conf
 lib/
 tools/
 build/
+doxygen/
